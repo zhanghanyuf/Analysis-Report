@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Analysis-Report: Research Analysis and Technical Insights"
+message: "If you use this research report in your work, please cite it using the metadata below."
+authors:
+  - family-names: Zhang
+    given-names: Hanyu
+    alias: zhanghanyuf
+version: "1.0"
+date-released: "2025-01-01"
+repository-code: "https://github.com/zhanghanyuf/Analysis-Report"
+license: "CC-BY-NC-SA-4.0"
+url: "https://github.com/zhanghanyuf/Analysis-Report"
+
+preferred-citation:
+  type: misc
+  title: "Analysis-Report: Research Analysis and Technical Insights"
+  authors:
+    - family-names: Zhang
+      given-names: Hanyu
+  year: 2025
+  notes: "CC BY-NC-SA 4.0 License"
+  url: "https://github.com/zhanghanyuf/Analysis-Report"
